@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41150'
     url: http://www.gutenberg.org/2009/agents/41150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41383#Punch-and-Judy-with-Instructions-How-to-Manage-the-Little-ActorsEntertainments.
 gutenberg_issued: '2012-11-17'
 gutenberg_type: Text
 identifiers:
